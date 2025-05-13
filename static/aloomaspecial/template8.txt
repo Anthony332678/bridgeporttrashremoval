@@ -1,0 +1,41 @@
+    <br><br><br><br>
+    <!-- contact template 8 just 1 subtopic -->
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma">aloomaidheader</h2>
+                <p class="template4 palooma">aloomaidparagraph
+                </p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">How far in advance should I reserve a porta-potty?
+                </h4>
+                <p>For events or scheduled projects, we recommend booking at least 5–7 days ahead. Emergency rentals can often be delivered the same day.</p>
+                <h4 class="template4 palooma">What types of portable toilets do you offer?
+                </h4>
+                <p>Standard, deluxe flushing, ADA-compliant, and handwashing stations. We’ll help you choose based on your needs.</p>
+                <h4 class="template4 palooma">Are your restrooms cleaned before delivery?
+                </h4>
+                <p>Every unit is cleaned, sanitized, and inspected before it leaves our yard. Long-term rentals include weekly servicing.</p>
+                <h4 class="template4 palooma">Do I need a permit to rent a porta potty in #State?
+                </h4>
+                <p>In some cases (especially on public property), a permit may be required. We can advise you during the booking process.</p>
+                <h4 class="template4 palooma">Do you offer restroom trailers or luxury options?
+                </h4>
+                <p>Yes! Call us for current availability of upscale restroom trailers for weddings or VIP events.</p>
+                <div class="callalooma mx-auto"><a href="aloomaidphonenumberurl">Click Here To Call Us aloomaidphonenumberful</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
